@@ -3,6 +3,6 @@
 
 ### ToDo List Portofolio
 
-- [ ] 🚀 Sunat CERIA (Optimized SEO with Umami Analytic)
+- [ ] 🚀 Sunat CERIA (Optimized SEO with Google Analytic)
 - [ ] 📜 Mutun Web with SSG
 - [ ] 🕌 Azan Mozilla Extension 
