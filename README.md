@@ -4,5 +4,7 @@
 ### ToDo List Portofolio
 
 - [x] 🚀 Sunat CERIA (Optimized SEO with Google Analytic) Ready for Production
-- [ ] 📜 Mutun Web with SSG
+- [ ] 📜 Mutun Web (SSG)
+- [ ] Electric Developer Website (SSG)
+- [ ] Pet Clinic and Organic Farmer Landing Page (SSG)
 - [ ] 🕌 Azan Mozilla Extension 
