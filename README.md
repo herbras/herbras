@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @herbras or Sarbeh
--  Pamer kodingnya besok-besok, lagi belajar huhuhu
 
 ### ToDo List Portofolio
 
